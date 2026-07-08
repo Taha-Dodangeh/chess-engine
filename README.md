@@ -12,7 +12,7 @@ A lightweight, terminal-based chess engine written from scratch in C, featuring 
 ## Getting Started
 How to Play
 
-Launch and compile the engine
+Launch and compile the engine. <br>
 Specify color (w for white, b for black). <br>
 Set AI thinking time (for example 10 for 10 sec) <br>
 You can make your move by typing starting square followed immediately by the destination type (for example a2a4) <br>
